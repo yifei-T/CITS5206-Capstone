@@ -1,0 +1,66 @@
+/* General page style */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f5f5f5;
+}
+
+/* Heading style */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+h6{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#Classification{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Table style */
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+/* Table header style */
+thead {
+    background-color: White;
+    color: Black;
+    border: 1px solid black;
+}
+
+thead th {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+/* Table body style */
+tbody td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Row hover effect */
+tbody tr:hover {
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+}
+
+/* Zebra striping */
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

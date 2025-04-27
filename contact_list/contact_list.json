@@ -1,0 +1,1206 @@
+{
+    "Academic Staff": [
+        {
+            "No.": "A1",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "SUBRAAMANNIAM Dr Thanes",
+            "Position": "Lecturer",
+            "Ext No": 3868,
+            "Room": 212
+        },
+        {
+            "No.": "A2",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "AGHA Dr Mahmoud",
+            "Position": "Lecturer",
+            "Ext No": 2510,
+            "Room": 251
+        },
+        {
+            "No.": "A3",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "BAUR Professor Dirk",
+            "Position": "Professor",
+            "Ext No": 5859,
+            "Room": 257
+        },
+        {
+            "No.": "A4",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "BAYNE Dr Lyndie",
+            "Position": "Senior Lecturer\nCPA Representative\nUndergraduate Accounting Major Program Adviser \nMaster of Commerce Coordinator",
+            "Ext No": 5841,
+            "Room": 213
+        },
+        {
+            "No.": "A5",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "AGAEWAL, Nishant",
+            "Position": "Lecturer",
+            "Ext No": 2902,
+            "Room": 203
+        },
+        {
+            "No.": "A6",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "BRASS Ms Fe'ama",
+            "Position": "Lecturer",
+            "Ext No": 2800,
+            "Room": 258
+        },
+        {
+            "No.": "A7",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HOANG, Lai",
+            "Position": "Lecturer",
+            "Ext No": 2899,
+            "Room": 209
+        },
+        {
+            "No.": "A8",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "CAHILL Mr Daniel",
+            "Position": "Lecturer\nDeputy Director Trading Room",
+            "Ext No": 5860,
+            "Room": 219
+        },
+        {
+            "No.": "A9",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "CHAN Dr Kam",
+            "Position": "Associate Professor",
+            "Ext No": 5839,
+            "Room": 205
+        },
+        {
+            "No.": "A10",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "CHESTERS Ms Collette",
+            "Position": "Lecturer",
+            "Ext No": 2996,
+            "Room": 235
+        },
+        {
+            "No.": "A11",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "CHONG Professor Vincent",
+            "Position": "Professor\nDeputy Head of Deparment/CIMA Representative/ICMA Representative",
+            "Ext No": 2914,
+            "Room": 215
+        },
+        {
+            "No.": "A12",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "DA SILVA ROSA Professor Raymond",
+            "Position": "Winthrop Professor",
+            "Ext No": 2974,
+            "Room": 255
+        },
+        {
+            "No.": "A13",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "GERRANS Professor Paul",
+            "Position": "Professor",
+            "Ext No": 2910,
+            "Room": 256
+        },
+        {
+            "No.": "A14",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "GILCHRIST Professor David",
+            "Position": "Professor",
+            "Ext No": 2876,
+            "Room": 254
+        },
+        {
+            "No.": "A15",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "GRAY Mr Antony",
+            "Position": "Lecturer",
+            "Ext No": 7100,
+            "Room": 207
+        },
+        {
+            "No.": "A16",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HANCOCK Professor Philip",
+            "Position": "Professor\nAssociate Dean Teaching and Learning",
+            "Ext No": 1835,
+            "Room": "G56"
+        },
+        {
+            "No.": "A17",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HO Dr Chloe",
+            "Position": "Lecturer",
+            "Ext No": 3904,
+            "Room": 214
+        },
+        {
+            "No.": "A18",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HOLUB Dr Mark",
+            "Position": "Lecturer",
+            "Ext No": 2647,
+            "Room": 218
+        },
+        {
+            "No.": "A19",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HOSSAIN Dr Mosha",
+            "Position": "Lecturer",
+            "Ext No": 1808,
+            "Room": 237
+        },
+        {
+            "No.": "A20",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HUTCHNGS Dr Glen",
+            "Position": "Lecturer\nMPA Coordinator",
+            "Ext No": 5901,
+            "Room": 249
+        },
+        {
+            "No.": "A21",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "HOANG, Thao",
+            "Position": "Lecturer",
+            "Ext No": 470,
+            "Room": 208
+        },
+        {
+            "No.": "A22",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "LAN Dr Yihui",
+            "Position": "Senior Lecturer",
+            "Ext No": 2464,
+            "Room": 245
+        },
+        {
+            "No.": "A23",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "LANGA Asst/Professor Leo",
+            "Position": "Assistant Professor",
+            "Ext No": 5838,
+            "Room": 246
+        },
+        {
+            "No.": "A24",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "LIU Dr Frank",
+            "Position": "Associate Professor",
+            "Ext No": 5861,
+            "Room": 247
+        },
+        {
+            "No.": "A25",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "MAH Ms Yeok Fun",
+            "Position": "Lecturer",
+            "Ext No": 5857,
+            "Room": 258
+        },
+        {
+            "No.": "A26",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "MASSCHELEIN Dr Stijn",
+            "Position": "Senior Lecturer\nHonours Program Coordinator",
+            "Ext No": 4202,
+            "Room": 234
+        },
+        {
+            "No.": "A27",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "AGRAWAL Ms Prerana",
+            "Position": "Lecturer\nCA Representative",
+            "Ext No": 2099,
+            "Room": 244
+        },
+        {
+            "No.": "A28",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "OOI Dr Elizabeth",
+            "Position": "Senior Lecturer\nSeminar Series Coordinator",
+            "Ext No": 5532,
+            "Room": 211
+        },
+        {
+            "No.": "A29",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "POSKITT Mr Russell",
+            "Position": "Senior Lecturer",
+            "Ext No": 5855,
+            "Room": 258
+        },
+        {
+            "No.": "A30",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "SCHONFELDT Ms Nikki",
+            "Position": "Senior Lecturer",
+            "Ext No": 5854,
+            "Room": 248
+        },
+        {
+            "No.": "A31",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "SHAN Dr George",
+            "Position": "Associate Professor",
+            "Ext No": 2938,
+            "Room": 206
+        },
+        {
+            "No.": "A32",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "SMALES Dr Lee",
+            "Position": "Associate Professor\nHead of Department/ CFA Representative/MAF Program Coordinator/ Director Trading room",
+            "Ext No": 2971,
+            "Room": 217
+        },
+        {
+            "No.": "A33",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "SMITH Mr Gary",
+            "Position": "Associate Lecturer",
+            "Ext No": 3855,
+            "Room": 258
+        },
+        {
+            "No.": "A34",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "SHAZIA, Farhan",
+            "Position": "Lecturer",
+            "Ext No": 8211,
+            "Room": 239
+        },
+        {
+            "No.": "A35",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "VAN ZYL Asst/Professor Warrick",
+            "Position": "Associate Professor\nUG Accounting Major Program Coordinator/Director of External Engagement",
+            "Ext No": 6713,
+            "Room": 220
+        },
+        {
+            "No.": "A36",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "VO Dr Duc",
+            "Position": "Lecturer",
+            "Ext No": 7324,
+            "Room": 236
+        },
+        {
+            "No.": "A37",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "WEN Dr Yuanji",
+            "Position": "Senior Lecturer\nSeminar Series Coordinator",
+            "Ext No": 5856,
+            "Room": 210
+        },
+        {
+            "No.": "A38",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "YANG Dr Joey",
+            "Position": "Associate Professor\nUG Finance Major Program Coordinator/Trading Room Director",
+            "Ext No": 2916,
+            "Room": 216
+        },
+        {
+            "No.": "A39",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "ZHONG Dr Rui",
+            "Position": "Senior Lecturer",
+            "Ext No": 3867,
+            "Room": 238
+        },
+        {
+            "No.": "A40",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "CHUNG, Ricky",
+            "Position": "Lecturer",
+            "Ext No": 1816,
+            "Room": 233
+        },
+        {
+            "No.": "A41",
+            "Classification": "ECONOMICS",
+            "Full Name": "BAHAL Dr Girish",
+            "Position": "Senior Lecturer",
+            "Ext No": 5642,
+            "Room": 108
+        },
+        {
+            "No.": "A42",
+            "Classification": "ECONOMICS",
+            "Full Name": "BHARATI Dr Tushar",
+            "Position": "Senior Lecturer",
+            "Ext No": 8560,
+            "Room": 115
+        },
+        {
+            "No.": "A43",
+            "Classification": "ECONOMICS",
+            "Full Name": "BIRCH Dr Elisa",
+            "Position": "Senior Lecturer",
+            "Ext No": 1444,
+            "Room": 105
+        },
+        {
+            "No.": "A44",
+            "Classification": "ECONOMICS",
+            "Full Name": "CHANG Dr Simon",
+            "Position": "Senior Lecturer\nSeminar Series Coordinator",
+            "Ext No": 2893,
+            "Room": 104
+        },
+        {
+            "No.": "A45",
+            "Classification": "ECONOMICS",
+            "Full Name": "CHATTERJEE Dr Ishita",
+            "Position": "Senior Lecturer",
+            "Ext No": 5654,
+            "Room": 145
+        },
+        {
+            "No.": "A46",
+            "Classification": "ECONOMICS",
+            "Full Name": "CHATTERJEE Dr Pratiti",
+            "Position": "Senior Lecturer",
+            "Ext No": "N/A",
+            "Room": 117
+        },
+        {
+            "No.": "A47",
+            "Classification": "ECONOMICS",
+            "Full Name": "CHEN Dr Shawn",
+            "Position": "Senior Lecturer\nSeminar Series Coordinator",
+            "Ext No": 5655,
+            "Room": 147
+        },
+        {
+            "No.": "A48",
+            "Classification": "ECONOMICS",
+            "Full Name": "FARHAD Dr Mohammad",
+            "Position": "Lecturer",
+            "Ext No": "N/A",
+            "Room": 127
+        },
+        {
+            "No.": "A49",
+            "Classification": "ECONOMICS",
+            "Full Name": "FIORINI Dr Luciana",
+            "Position": "Senior Lecturer",
+            "Ext No": 7212,
+            "Room": 149
+        },
+        {
+            "No.": "A50",
+            "Classification": "ECONOMICS",
+            "Full Name": "MADSEN Professor Jakob",
+            "Position": "Professor",
+            "Ext No": 7361,
+            "Room": 113
+        },
+        {
+            "No.": "A51",
+            "Classification": "ECONOMICS",
+            "Full Name": "JETTER Dr Michael",
+            "Position": "Associate Professor",
+            "Ext No": 2498,
+            "Room": 150
+        },
+        {
+            "No.": "A52",
+            "Classification": "ECONOMICS",
+            "Full Name": "KRISTOFFERSEN Dr Inga",
+            "Position": "Lecturer",
+            "Ext No": 4677,
+            "Room": 109
+        },
+        {
+            "No.": "A53",
+            "Classification": "ECONOMICS",
+            "Full Name": "LIN Yanli",
+            "Position": "Lecturer",
+            "Ext No": "N/A",
+            "Room": 107
+        },
+        {
+            "No.": "A54",
+            "Classification": "ECONOMICS",
+            "Full Name": "MAGNUSSON Dr Leandro",
+            "Position": "Senior Lecturer",
+            "Ext No": 2924,
+            "Room": 103
+        },
+        {
+            "No.": "A55",
+            "Classification": "ECONOMICS",
+            "Full Name": "PALMER Dr Michael",
+            "Position": "Associate Professor",
+            "Ext No": 6094,
+            "Room": 110
+        },
+        {
+            "No.": "A56",
+            "Classification": "ECONOMICS",
+            "Full Name": "PARSONS Dr Christopher",
+            "Position": "Associate Professor",
+            "Ext No": 5639,
+            "Room": 131
+        },
+        {
+            "No.": "A57",
+            "Classification": "ECONOMICS",
+            "Full Name": "PRESTON Professor Alison",
+            "Position": "Professor",
+            "Ext No": 8164,
+            "Room": 146
+        },
+        {
+            "No.": "A58",
+            "Classification": "ECONOMICS",
+            "Full Name": "RAMMOHAN Professor Anu",
+            "Position": "Professor",
+            "Ext No": 3406,
+            "Room": 114
+        },
+        {
+            "No.": "A59",
+            "Classification": "ECONOMICS",
+            "Full Name": "TANG Dr Sam",
+            "Position": "Senior Lecturer",
+            "Ext No": 2931,
+            "Room": 116
+        },
+        {
+            "No.": "A60",
+            "Classification": "ECONOMICS",
+            "Full Name": "WU Professor Yanrui",
+            "Position": "Professor",
+            "Ext No": 3964,
+            "Room": 112
+        },
+        {
+            "No.": "A61",
+            "Classification": "ECONOMICS",
+            "Full Name": "N/A",
+            "Position": "Visitor Office",
+            "Ext No": 7361,
+            "Room": 128
+        },
+        {
+            "No.": "A62",
+            "Classification": "MARKETING",
+            "Full Name": "PURCHASE, Sharon",
+            "Position": "Professor \nHead of Department",
+            "Ext No": 1812,
+            "Room": 2208
+        },
+        {
+            "No.": "A63",
+            "Classification": "MARKETING",
+            "Full Name": "WEBB, Dave",
+            "Position": "Associate Professor",
+            "Ext No": 7380,
+            "Room": 2226
+        },
+        {
+            "No.": "A64",
+            "Classification": "MARKETING",
+            "Full Name": "GRUNER, Richard",
+            "Position": "Associate Professor",
+            "Ext No": 5876,
+            "Room": 2206
+        },
+        {
+            "No.": "A65",
+            "Classification": "MARKETING",
+            "Full Name": "HARRIGAN, Paul",
+            "Position": "Associate Professor",
+            "Ext No": 1979,
+            "Room": 2210
+        },
+        {
+            "No.": "A66",
+            "Classification": "MARKETING",
+            "Full Name": "LEE, Julie",
+            "Position": "Winthrop Professor",
+            "Ext No": 2912,
+            "Room": 2202
+        },
+        {
+            "No.": "A67",
+            "Classification": "MARKETING",
+            "Full Name": "LIU, Fang",
+            "Position": "Associate Professor",
+            "Ext No": 3506,
+            "Room": 2209
+        },
+        {
+            "No.": "A68",
+            "Classification": "MARKETING",
+            "Full Name": "MAZZAROL, Tim",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 3981,
+            "Room": 2201
+        },
+        {
+            "No.": "A69",
+            "Classification": "MARKETING",
+            "Full Name": "SOUTER, Geoff",
+            "Position": "Emeritus Professor",
+            "Ext No": 7885,
+            "Room": 2201
+        },
+        {
+            "No.": "A70",
+            "Classification": "MARKETING",
+            "Full Name": "MUSU, Antoine",
+            "Position": "Lecturer",
+            "Ext No": 1795,
+            "Room": 2205
+        },
+        {
+            "No.": "A71",
+            "Classification": "MARKETING",
+            "Full Name": "PHAM, Rosie",
+            "Position": "Lecturer",
+            "Ext No": 7620,
+            "Room": 2225
+        },
+        {
+            "No.": "A72",
+            "Classification": "MARKETING",
+            "Full Name": "SCHEPIS, Daniel",
+            "Position": "Senior Lecturer",
+            "Ext No": 5657,
+            "Room": 2207
+        },
+        {
+            "No.": "A73",
+            "Classification": "MARKETING",
+            "Full Name": "SNEDDON, Joanne",
+            "Position": "Associate Professor",
+            "Ext No": 1727,
+            "Room": 2204
+        },
+        {
+            "No.": "A74",
+            "Classification": "MARKETING",
+            "Full Name": "HONORA, Andreawan",
+            "Position": "Lecturer",
+            "Ext No": "N/A",
+            "Room": 2203
+        },
+        {
+            "No.": "A75",
+            "Classification": "MARKETING",
+            "Full Name": "TARABASHKINA, Liudmila",
+            "Position": "Senior Lecturer",
+            "Ext No": 1451,
+            "Room": 2224
+        },
+        {
+            "No.": "A76",
+            "Classification": "MARKETING",
+            "Full Name": "VAN DOORN, Sebastiaan",
+            "Position": "Senior Lecturer",
+            "Ext No": 5883,
+            "Room": 2228
+        },
+        {
+            "No.": "A77",
+            "Classification": "MARKETING",
+            "Full Name": "Waismuller, Jason",
+            "Position": "Lecturer",
+            "Ext No": 6201,
+            "Room": 2229
+        },
+        {
+            "No.": "A78",
+            "Classification": "MARKETING",
+            "Full Name": "YU, Stanley",
+            "Position": "Lecturer",
+            "Ext No": 5873,
+            "Room": 2223
+        },
+        {
+            "No.": "A79",
+            "Classification": "MARKETING",
+            "Full Name": "RAHN, Oliver",
+            "Position": "Lecturer",
+            "Ext No": "N/A",
+            "Room": 2217
+        },
+        {
+            "No.": "A80",
+            "Classification": "MARKETING",
+            "Full Name": "YU, Ava",
+            "Position": "Lecturer",
+            "Ext No": 1414,
+            "Room": 2227
+        },
+        {
+            "No.": "A81",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "AMARNANI, Rajiv",
+            "Position": "Senior Lecturer",
+            "Ext No": 3758,
+            "Room": 1220
+        },
+        {
+            "No.": "A82",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "CARPINI, Joseph",
+            "Position": "Senior Lecturer",
+            "Ext No": 5660,
+            "Room": 193
+        },
+        {
+            "No.": "A83",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "CASADO, Renata",
+            "Position": "Lecturer",
+            "Ext No": 1583,
+            "Room": 176
+        },
+        {
+            "No.": "A84",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "CASPERSZ, Donella",
+            "Position": "Associate Professor",
+            "Ext No": 2927,
+            "Room": 175
+        },
+        {
+            "No.": "A85",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "FANG, Ruolian",
+            "Position": "Senior Lecturer\nHonour Coordinator",
+            "Ext No": 3984,
+            "Room": 173
+        },
+        {
+            "No.": "A86",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "GILLAN, Michael",
+            "Position": "Associate Professor\nHead of Department",
+            "Ext No": 7101,
+            "Room": 191
+        },
+        {
+            "No.": "A87",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "BYERS, Steve",
+            "Position": "Lecturer",
+            "Ext No": 2781,
+            "Room": 1216
+        },
+        {
+            "No.": "A88",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "SOETAN, Bemi",
+            "Position": "Lecturer",
+            "Ext No": "N/A",
+            "Room": 1214
+        },
+        {
+            "No.": "A89",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "GOODS, Caleb",
+            "Position": "Senior Lecturer",
+            "Ext No": 5676,
+            "Room": 1208
+        },
+        {
+            "No.": "A90",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "HOFFMAN, Jenny",
+            "Position": "Associate Lecturer",
+            "Ext No": 2908,
+            "Room": 178
+        },
+        {
+            "No.": "A91",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "KIFFIN-PETERSEN, Sandra",
+            "Position": "Senior Lecturer",
+            "Ext No": 3070,
+            "Room": 171
+        },
+        {
+            "No.": "A92",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "LUKSYTE, Alex",
+            "Position": "Associate Professor",
+            "Ext No": 6906,
+            "Room": 192
+        },
+        {
+            "No.": "A93",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "MAAS, Ron",
+            "Position": "Lecturer",
+            "Ext No": 1066,
+            "Room": 1207
+        },
+        {
+            "No.": "A94",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "SOO, Christine",
+            "Position": "Associate Professor\nDeputy Department Head",
+            "Ext No": 2829,
+            "Room": 174
+        },
+        {
+            "No.": "A95",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "CELESTINE, Nicole",
+            "Position": "Research Associate",
+            "Ext No": 2081,
+            "Room": 1217
+        },
+        {
+            "No.": "A96",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "YEO, Gillian",
+            "Position": "Professor",
+            "Ext No": 1875,
+            "Room": 172
+        },
+        {
+            "No.": "A97",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "BARRATT, Tom",
+            "Position": "Senior Research Fellow",
+            "Ext No": 3581,
+            "Room": 179
+        },
+        {
+            "No.": "A98",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "HUBE, Benita",
+            "Position": "Lecturer",
+            "Ext No": 5679,
+            "Room": 180
+        },
+        {
+            "No.": "A99",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "BERGEY, Paul",
+            "Position": "Associate Professor \nDirector, CBDA",
+            "Ext No": 6729,
+            "Room": "G41"
+        },
+        {
+            "No.": "A100",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "OLARU, Doina",
+            "Position": "Professor",
+            "Ext No": 3908,
+            "Room": "G38"
+        },
+        {
+            "No.": "A101",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "SMITH, Brett",
+            "Position": "Associate Professor\nMBIM Program Coordinator",
+            "Ext No": 3979,
+            "Room": "G40"
+        },
+        {
+            "No.": "A102",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "MAGINN, Paul",
+            "Position": "Director, UWA Public Policy Institute\nOffice of DVC Research",
+            "Ext No": 2711,
+            "Room": 1203
+        },
+        {
+            "No.": "A103",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "REED, Tristan",
+            "Position": "Lecturer",
+            "Ext No": 2767,
+            "Room": 1206
+        },
+        {
+            "No.": "A104",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "CORDERY, John",
+            "Position": "Adjunct Professor",
+            "Ext No": "N/A",
+            "Room": 1215
+        },
+        {
+            "No.": "A105",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "SHI, Yingnan",
+            "Position": "Lecturer",
+            "Ext No": 6029,
+            "Room": 1218
+        },
+        {
+            "No.": "A106",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "KUM, Christina",
+            "Position": "Lecturer",
+            "Ext No": 6029,
+            "Room": 1219
+        },
+        {
+            "No.": "A107",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "N/A",
+            "Position": "Visitor/Tutorial Room",
+            "Ext No": 6766,
+            "Room": 170
+        },
+        {
+            "No.": "A108",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "N/A",
+            "Position": "Supported Team",
+            "Ext No": 3869,
+            "Room": 183
+        },
+        {
+            "No.": "A109",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "N/A",
+            "Position": "Visitor Room",
+            "Ext No": 3984,
+            "Room": 184
+        },
+        {
+            "No.": "A110",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "KYRON, Michael",
+            "Position": "Business Support Manager\nSchool of Psychological Science",
+            "Ext No": 6640,
+            "Room": 185
+        },
+        {
+            "No.": "A111",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "FASSEHI, Shukrullah",
+            "Position": "Casual Teaching",
+            "Ext No": 8720,
+            "Room": "185A"
+        },
+        {
+            "No.": "A112",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Peter ROBERTSON",
+            "Position": "Dean",
+            "Ext No": 5633,
+            "Room": 270
+        },
+        {
+            "No.": "A113",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Allan Trench",
+            "Position": "Director MBA Program",
+            "Ext No": "N/A",
+            "Room": 274
+        },
+        {
+            "No.": "A114",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "David Blyth",
+            "Position": "Adjunct Associate Professor",
+            "Ext No": "N/A",
+            "Room": 274
+        },
+        {
+            "No.": "A115",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Paul Crompton",
+            "Position": "Senior Lecturer",
+            "Ext No": 2929,
+            "Room": 281
+        },
+        {
+            "No.": "A116",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Jane MONZON",
+            "Position": "Senior School Operations Coordinator",
+            "Ext No": 3039,
+            "Room": 276
+        },
+        {
+            "No.": "A117",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Tennille TREVASKIS",
+            "Position": "Senior School Operations Coordinator",
+            "Ext No": 7974,
+            "Room": 280
+        },
+        {
+            "No.": "A118",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "David HALLAM",
+            "Position": "Project Officer",
+            "Ext No": 1943,
+            "Room": "278N"
+        },
+        {
+            "No.": "A119",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Vesna PRIBICEVIC",
+            "Position": "Senior School Operations Officer",
+            "Ext No": 3545,
+            "Room": "278I"
+        },
+        {
+            "No.": "A120",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Kirsty SEITZ (Tue - Thur)",
+            "Position": "School Operations Officer",
+            "Ext No": 7264,
+            "Room": "278K"
+        },
+        {
+            "No.": "A121",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Shamit SAGGAR",
+            "Position": "UWA PPI - Director",
+            "Ext No": 4365,
+            "Room": 274
+        },
+        {
+            "No.": "A122",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Chris LIN",
+            "Position": "UWA PPI - Executive Officer",
+            "Ext No": 2488,
+            "Room": "275B"
+        },
+        {
+            "No.": "A123",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Tania GUILE  (Tue - Thur)",
+            "Position": "School Operations Officer",
+            "Ext No": 1447,
+            "Room": "278J"
+        },
+        {
+            "No.": "A124",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "April WEN ( Mon - Tue)",
+            "Position": "School Operations Officer",
+            "Ext No": 8232,
+            "Room": "278M"
+        },
+        {
+            "No.": "A125",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Wendy LUMANAU",
+            "Position": "School Operations Officer",
+            "Ext No": 9005,
+            "Room": "278B"
+        },
+        {
+            "No.": "A126",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Freya GAO (Tue - Wed)",
+            "Position": "School Operations Officer",
+            "Ext No": 509,
+            "Room": "278L"
+        },
+        {
+            "No.": "A127",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Esther WINTERFLOOD (Wed - Thur)",
+            "Position": "School Operations Officer",
+            "Ext No": 1104,
+            "Room": "278M"
+        },
+        {
+            "No.": "A128",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Manpreet SOHANPAL (Wednesday)",
+            "Position": "School Operations Officer",
+            "Ext No": 1637,
+            "Room": "278K"
+        },
+        {
+            "No.": "A129",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Sandra Carro",
+            "Position": "Teaching Operations Officer",
+            "Ext No": 5868,
+            "Room": "278C"
+        },
+        {
+            "No.": "A130",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Aya Kelly",
+            "Position": "Teaching Operations Officer",
+            "Ext No": 3400,
+            "Room": "278H"
+        },
+        {
+            "No.": "A131",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Isabela Banea",
+            "Position": "Teaching Operations Officer",
+            "Ext No": 5627,
+            "Room": "278F"
+        },
+        {
+            "No.": "A132",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Tundi JEGES (Mon - Thur)",
+            "Position": "Teaching Operations Officer",
+            "Ext No": 2900,
+            "Room": "278G"
+        },
+        {
+            "No.": "A133",
+            "Classification": "DEANS OFFICE",
+            "Full Name": "Hitesha Ramnohur (Mon, Wed, Thur and Fri)",
+            "Position": "Teaching Operations Assistant",
+            "Ext No": 6070,
+            "Room": "278A"
+        }
+    ],
+    "Research Fellows/Adjunct Professor": [
+        {
+            "No.": "R1",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "IZAN W/Professor",
+            "Position": "Emeiitus Professor",
+            "Ext No": 2627,
+            "Room": 243
+        },
+        {
+            "No.": "R2",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "BROWN Philip",
+            "Position": "Emeritus Professor",
+            "Ext No": 2798,
+            "Room": 243
+        },
+        {
+            "No.": "R3",
+            "Classification": "ACCOUNTING AND FINANCE",
+            "Full Name": "JOHNSON Adjunct Professor Paul",
+            "Position": "Adjunct Professor",
+            "Ext No": 2894,
+            "Room": 204
+        },
+        {
+            "No.": "R4",
+            "Classification": "ECONOMICS",
+            "Full Name": "BARNETT Professor Collin",
+            "Position": "Adjunct Professor",
+            "Ext No": 2128,
+            "Room": 106
+        },
+        {
+            "No.": "R5",
+            "Classification": "ECONOMICS",
+            "Full Name": "CLEMENTS Professor Ken",
+            "Position": "Emeritus Professor",
+            "Ext No": 2898,
+            "Room": 151
+        },
+        {
+            "No.": "R6",
+            "Classification": "ECONOMICS",
+            "Full Name": "DAVIES Mr Mel",
+            "Position": "Honorary Research Fellow",
+            "Ext No": 2926,
+            "Room": 144
+        },
+        {
+            "No.": "R7",
+            "Classification": "ECONOMICS",
+            "Full Name": "GABBAY Dr Rony",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 2926,
+            "Room": 144
+        },
+        {
+            "No.": "R8",
+            "Classification": "ECONOMICS",
+            "Full Name": "GROENEWOLD Professor Nic",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 3345,
+            "Room": 148
+        },
+        {
+            "No.": "R9",
+            "Classification": "ECONOMICS",
+            "Full Name": "SIDDIQUE Dr Abu",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 2941,
+            "Room": 148
+        },
+        {
+            "No.": "R10",
+            "Classification": "ECONOMICS",
+            "Full Name": "WEBER Dr Juerg",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 2922,
+            "Room": 148
+        },
+        {
+            "No.": "R11",
+            "Classification": "ECONOMICS",
+            "Full Name": "McLURE Professor Michael",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 2921,
+            "Room": 111
+        },
+        {
+            "No.": "R12",
+            "Classification": "ECONOMICS",
+            "Full Name": "TYERS Professor Rod",
+            "Position": "Honorary Research Fellow",
+            "Ext No": 5632,
+            "Room": 129
+        },
+        {
+            "No.": "R13",
+            "Classification": "MARKETING",
+            "Full Name": "BARRATT-PUGH, Llandis",
+            "Position": "Honorary Research Fellow",
+            "Ext No": 7210,
+            "Room": 2215
+        },
+        {
+            "No.": "R14",
+            "Classification": "MARKETING",
+            "Full Name": "SWEENEY, Jill",
+            "Position": "Winthrop Professor Emeritus\nSenior Honorary Research Fellow",
+            "Ext No": 1438,
+            "Room": 2216
+        },
+        {
+            "No.": "R15",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "LEIGHTON, Catherine",
+            "Position": "Honorary Research Fellow",
+            "Ext No": 2935,
+            "Room": "G32"
+        },
+        {
+            "No.": "R16",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "FELLS, Ray",
+            "Position": "Senior Honorary Research Fellow",
+            "Ext No": 2933,
+            "Room": 1202
+        },
+        {
+            "No.": "R17",
+            "Classification": "MANAGEMENT & ORGANISATIONS",
+            "Full Name": "PERRYER, Chris",
+            "Position": "Adjunct Lecturer",
+            "Ext No": 1445,
+            "Room": 181
+        }
+    ]
+}
